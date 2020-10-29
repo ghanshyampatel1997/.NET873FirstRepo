@@ -43,3 +43,25 @@ git clone https://github.com/krishnakanth1995/Training.git
 
 ------------------adding folder having folder or any change in file------------------
 git add .
+
+-----------------create branch----------------------
+git branch emp_chenai
+
+-------------------list of files-------------------
+ls
+
+------------------branch nevigation----------------
+git checkout branchname
+
+
+---------------push data from anothe branch----------
+git push -u origin branchname
+
+-------------merging branch 1(emp_chennai) in current branch--------------
+git merge emp_chennai
+
+--------------delete branch from local storage-----------------------------------
+git branch -d branchname
+
+-------------delete branch from github storage------------------------
+git push origin --delete branchname
