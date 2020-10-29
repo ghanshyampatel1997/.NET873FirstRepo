@@ -1,0 +1,39 @@
+------------------to see version----
+ git --version
+
+----------------to configu---------------------------------------
+git config --global  user.name "ghanshyampatel1997"
+
+git config --global user.email ghanshyampatel1997@gmail.com
+
+
+----------------to see configu details--------------------
+git config --list
+
+
+-----------------------------navigation--------------------
+cd "foldername"
+
+---------------------git initialization(will create that folder connected with git  .git created)-------------------------
+git init
+
+-----------------------------add file--------------------------------
+git add filename.extension
+
+-------------------------to see status-------------------------------
+git status
+
+-------------------------------to commit changes-------------------------
+git commit -m "comment"
+
+-----------------------------adding github repository-----------------------
+git remote add origin https://github.com/ghanshyampatel1997/.NET873FirstRepo.git
+
+------------------------to see orgin name------------------
+git remote -v
+
+--------------to push data on github-----------------------
+git push -u origin master
+
+---------------to pull data from git hub----------------------------
+git pull origin master
