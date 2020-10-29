@@ -1,0 +1,7 @@
+D:\desktop\dotnet training\C#\C# code\day 4\PrjDay4\Inheritance\bin\Debug\Inheritance.exe.config
+D:\desktop\dotnet training\C#\C# code\day 4\PrjDay4\Inheritance\bin\Debug\Inheritance.exe
+D:\desktop\dotnet training\C#\C# code\day 4\PrjDay4\Inheritance\bin\Debug\Inheritance.pdb
+D:\desktop\dotnet training\C#\C# code\day 4\PrjDay4\Inheritance\obj\Debug\Inheritance.csprojAssemblyReference.cache
+D:\desktop\dotnet training\C#\C# code\day 4\PrjDay4\Inheritance\obj\Debug\Inheritance.csproj.CoreCompileInputs.cache
+D:\desktop\dotnet training\C#\C# code\day 4\PrjDay4\Inheritance\obj\Debug\Inheritance.exe
+D:\desktop\dotnet training\C#\C# code\day 4\PrjDay4\Inheritance\obj\Debug\Inheritance.pdb
