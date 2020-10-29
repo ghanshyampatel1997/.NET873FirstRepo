@@ -39,3 +39,7 @@ git push -u origin master
 git pull origin master
 
 -------------------cloning-------------------------
+git clone https://github.com/krishnakanth1995/Training.git
+
+------------------adding folder having folder or any change in file------------------
+git add .
