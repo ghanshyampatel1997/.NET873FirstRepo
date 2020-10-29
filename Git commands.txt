@@ -37,3 +37,5 @@ git push -u origin master
 
 ---------------to pull data from git hub----------------------------
 git pull origin master
+
+-------------------cloning-------------------------
